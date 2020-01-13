@@ -61,6 +61,11 @@ a:hover {
 
 }
 
+.purplefont {
+    color: blueviolet;
+    text-decoration: solid;
+}
+
 .original {
    color: white;
 }
